@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Jaber Khan</h1>
-<h3 align="center">A passionate web development practioner</h3>
+<h3 align="center">A professional web developer</h3>
 <center>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jaberkh16&label=Profile%20views&color=0e75b6&style=flat" alt="jaberkh16" /> </p>
 </center>
