@@ -28,11 +28,11 @@ A highly energetic, disciplined and self motivational fresh graduate having an a
 <h3 align="left">Github Trophies:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaberkh16&show_icons=true&theme=tokyonight" alt="jaberkh16" /></a> </p>
 
+<h3 align="left">Github Stats & Streaks & Used Stacks:</h3>
 
-<h3 align="left">Mostly used stacks:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaberkh16&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="jaberkh16" /></p><br>
 
-<h3 align="left">Github Stats & Streaks:</h3>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaberkh16&show_icons=true&locale=en&theme=tokyonight" alt="jaberkh16" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaberkh16&theme=tokyonight" alt="jaberkhanjk" /></p>
