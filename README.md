@@ -31,7 +31,7 @@ A highly energetic, disciplined and self motivational fresh graduate having an a
 <h3 align="left">Github Stats & Mostly Used Stacks:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaberkh16&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="jaberkh16" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaberkh16&show_icons=true&locale=en&theme=tokyonight" alt="jaberkh16" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaberkh16&show_icons=true&locale=en&theme=tokyonight" alt="jaberkh16" /></p><br><br>
 
 <h3 align="left">Github Contribution & Streaks:</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaberkh16&theme=tokyonight" alt="jaberkhanjk" /></p>
