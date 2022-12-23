@@ -8,7 +8,7 @@
 A highly energetic, disciplined and self motivational fresh graduate having an academic background in computer science engineering would like to work in a web development field while brushing up my technical and problem solving skills to gain more knowledge and experience on the field as well as well to contribute on companies growth and success.
 
 
-- 🔭 I’m currently working on **Note Manager Web App**
+- 🔭 I’m currently working on **Ecommerce Web App**
 - 🌱 I’m currently learning **NodeJS**
 - 👯 I’m looking to collaborate on **WEB DEV Community** and **Data Science Community**
 - 💬 Ask me about **Web Development and Data Science Staff**
