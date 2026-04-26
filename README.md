@@ -1,6 +1,12 @@
 <!-- <h1 align="center">Hi 👋, I'm Md. Jaber Khan</h1> -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Jaber;Full+Stack+Developer;Go+%7C+Laravel+%7C+Node.js;Always+learning+new+things" />
+  <!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Jaber;Full+Stack+Developer;Go+%7C+Laravel+%7C+Node.js;Always+learning+new+things" /> -->
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Jaber;Full+Stack+Developer;Go+%7C+Laravel+%7C+Node.js;Python+%7C+Ruby+%7C+AI+%26+ML+Enthusiast;Always+learning+new+things" />
+
+<p align="center">
+  🚀 Visionaries don’t predict the future — they code it into existence
+</p>
 </h1>
 
 <h3 align="center">A professional web developer</h3>
@@ -10,8 +16,17 @@
 
 
 <!-- <h3 align="left">### 📖 About me:</h3> -->
+<!-- <img src="https://img.shields.io/badge/About%20Me-9B59B6?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+A highly energetic, disciplined and self motivational fresh graduate having an academic background in computer science engineering would like to work in a web development field while brushing up my technical and problem solving skills to gain more knowledge and experience on the field as well as well to contribute on companies growth and success. -->
+
+
 <img src="https://img.shields.io/badge/About%20Me-9B59B6?style=for-the-badge&logo=readthedocs&logoColor=white"/>
-A highly energetic, disciplined and self motivational fresh graduate having an academic background in computer science engineering would like to work in a web development field while brushing up my technical and problem solving skills to gain more knowledge and experience on the field as well as well to contribute on companies growth and success.
+
+A passionate Full Stack Developer focused on building scalable, efficient, and high-performance web applications and backend systems. Strong emphasis on clean architecture, maintainable code, and delivering seamless user experiences.
+
+Experience working with modern technologies including Go, Laravel, Node.js, and frontend frameworks. Comfortable handling complex problem-solving, system design, and performance optimization across full-stack applications.
+
+Driven by continuous learning and a collaborative mindset, with a focus on contributing to impactful and production-ready software solutions in fast-paced environments.
 
 
 - 🔭 I’m currently working on **Ecommerce Web App**
@@ -122,7 +137,7 @@ A highly energetic, disciplined and self motivational fresh graduate having an a
   </td>
 
   <td></td>
-  <td></td>
+
 </tr>
 
   <!-- FRONTEND -->
