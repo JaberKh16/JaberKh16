@@ -28,20 +28,55 @@ Experience working with modern technologies including Go, Laravel, Node.js, and 
 
 Driven by continuous learning and a collaborative mindset, with a focus on contributing to impactful and production-ready software solutions in fast-paced environments.
 
-
-- 🔭 I’m currently working on **Ecommerce Web App**
-- 🌱 I’m currently learning **NodeJS**
+<!-- <temp>
+  
+- 🔭 Building scalable backend systems
+- 🌱 Improving system design skills
+- Learning cloud & DevOps fundamentals
+- Working on production-grade web applications
 - 👯 I’m looking to collaborate on **WEB DEV Community** and **Data Science Community**
 - 💬 Ask me about **Web Development and Data Science Staff**
 - 📫 How to reach me **md.jaberkhan66@gmail.com**
+</temp> -->
+
+- 🔭 Building scalable backend systems and production-ready web applications  
+- 🌱 Improving system design, cloud, and DevOps fundamentals  
+- 👯 Open to collaboration in Web Development and Data Science communities  
+- 💬 Ask me about Web Development, backend systems, and data-related engineering topics  
+- 📫 Reach me at: md.jaberkhan66@gmail.com  
+
+
+<img src="https://img.shields.io/badge/Core%20Expertise-1F6FEB?style=for-the-badge&logo=code&logoColor=white"/>
+
+- Backend Development (Go, Node.js, Laravel)
+- RESTful API & System Design
+- Database Design (SQL & NoSQL)
+- Scalable Web Applications
+- Performance Optimization
+- Clean Architecture & Best Practices
 
 <!-- <h3 align="left">Connect with me:</h3> -->
-<img src="https://img.shields.io/badge/Connect%20with%20me-0A66C2?style=for-the-badge&logo=github&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/Connect%20with%20me-0A66C2?style=for-the-badge&logo=github&logoColor=white"/>
 <p align="left">
 <a href="https://dev.to/jaberkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jaberkhan" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/jaber-khan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaber-khan-6310a4144" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/10585252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10585252" height="30" width="40" /></a>
-</p> 
+</p>  -->
+
+<img src="https://img.shields.io/badge/Connect%20with%20me-0A66C2?style=for-the-badge&logo=github&logoColor=white"/>
+
+<table>
+  <tr>
+    <td align="center"><a href="https://dev.to/jaberkhan"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" width="35"/><br/>Dev</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/jaber-khan/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35"/><br/>LinkedIn</a></td>
+    <td align="center"><a href="https://stackoverflow.com/users/10585252"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="35"/><br/>Stack</a></td>
+    <td align="center"><a href="mailto:md.jaberkhan66@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="35"/><br/>Email</a></td>
+    <td align="center"><a href="https://twitter.com/yourusername"><img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="35"/><br/>Twitter</a></td>
+    <!-- <td align="center"><a href="https://yourportfolio.com"><img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="35"/><br/>Portfolio</a></td> -->
+     <td align="center"><a href="https://medium.com/@yourusername"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" width="35"/><br/>Medium</a></td>
+    
+  </tr>
+</table>
 
 
 <!--
@@ -278,8 +313,15 @@ Driven by continuous learning and a collaborative mindset, with a focus on contr
 
 
 <!-- <h3 align="left">Github Trophies:</h3> -->
-<img src="https://img.shields.io/badge/GitHub%20Trophies-FFB400?style=for-the-badge&logo=github&logoColor=black"/>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaberkh16&show_icons=true&theme=tokyonight" alt="jaberkh16" /></a> </p>
+<!-- <img src="https://img.shields.io/badge/GitHub%20Trophies-FFB400?style=for-the-badge&logo=github&logoColor=black"/>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaberkh16&show_icons=true&theme=tokyonight" alt="jaberkh16" /></a> </p> -->
+
+<img src="https://img.shields.io/badge/GitHub%20Achievements-FFB400?style=for-the-badge&logo=github&logoColor=black"/>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jaberkh16&theme=darkhub&no-frame=true&margin-w=10" />
+</p>
+
 
 
 
