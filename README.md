@@ -333,3 +333,30 @@ Driven by continuous learning and a collaborative mindset, with a focus on contr
 <!-- <h3 align="left">Github Contribution & Streaks:</h3> -->
 <img src="https://img.shields.io/badge/Contribution%20%26%20Streaks-E74C3C?style=for-the-badge&logo=github&logoColor=white"/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaberkh16&theme=tokyonight" alt="jaberkhanjk" /></p>
+
+
+
+<br>
+<hr>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Thanks%20for%20Visiting-0A66C2?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+<p align="center">
+  <i>
+    "Programs must be written for people to read, and only incidentally for machines to execute."
+  </i>
+</p>
+
+<p align="center">
+  — Harold Abelson
+</p>
+
+<br>
+
+<p align="center">
+  ⚡ Built with passion • Designed for impact • Engineered for scale
+</p>
+
+<br>
