@@ -343,7 +343,7 @@ Driven by continuous learning and a collaborative mindset, with a focus on contr
   <img src="https://img.shields.io/badge/Thanks%20for%20Visiting-0A66C2?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <i>
     "Programs must be written for people to read, and only incidentally for machines to execute."
   </i>
@@ -353,10 +353,46 @@ Driven by continuous learning and a collaborative mindset, with a focus on contr
   — Harold Abelson
 </p>
 
+<p align="center">
+  <i>"Software is a gas; it expands to fill its container."</i>
+</p>
+
+<p align="center">
+  — Nathan Myhrvold
+</p>
+
+<br>
+
+<p align="center">
+  <i>"Simplicity is the ultimate sophistication."</i>
+</p>
+
+<p align="center">
+  — Leonardo da Vinci
+</p>
+
+<br>
+
+<p align="center">
+  <i>"Any sufficiently advanced technology is indistinguishable from magic."</i>
+</p>
+
+<p align="center">
+  — Arthur C. Clarke
+</p>
+
+<p align="center">
+  Building systems that scale, fail gracefully, and evolve continuously.
+</p>
+
 <br>
 
 <p align="center">
   ⚡ Built with passion • Designed for impact • Engineered for scale
+</p> -->
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 <br>
