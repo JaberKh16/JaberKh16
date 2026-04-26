@@ -120,31 +120,92 @@ A highly energetic, disciplined and self motivational fresh graduate having an a
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" width="40"/><br>Rails</td>
   </tr>
 
-  <!-- DATABASE -->
-  <tr>
-    <td colspan="8" align="center"><b>🗄️ Database</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/><br>MySQL</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="40"/><br>Postgres</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/><br>MongoDB</td>
-    <td colspan="5"></td>
-  </tr>
+<!-- DATABASE -->
+<tr>
+  <td colspan="8" align="center"><b>🗄️ Database</b></td>
+</tr>
 
-  <!-- OTHER TOOLS -->
-  <tr>
-    <td colspan="8" align="center"><b>🧰 Other Tools</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/><br>Git</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40"/><br>Bash</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40"/><br>Shell</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/filezilla-project/filezilla-project-icon.svg" width="40"/><br>FileZilla</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Nginx_logo.svg" width="40"/><br>Nginx</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Apache_Feather_Logo.svg" width="40"/><br>Apache</td>
-    <td align="center"></td>
-    <td align="center"></td>
-  </tr>
+<tr>
+  <td align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/><br>MySQL
+  </td>
+
+  <td align="center">
+    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="40"/><br>Postgres
+  </td>
+
+  <td align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/><br>MongoDB
+  </td>
+
+  <td align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" width="40"/><br>MariaDB
+  </td>
+
+  <td align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40"/><br>SQLite
+  </td>
+
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+
+<!-- OTHER TOOLS -->
+<tr>
+  <td colspan="8" align="center"><b>🧰 Other Tools</b></td>
+</tr>
+
+<tr>
+  <td align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/><br>Git
+  </td>
+
+  <td align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40"/><br>Bash
+  </td>
+
+  <td align="center">
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40"/><br>Shell
+  </td>
+
+  <td align="center">
+    <img src="https://www.vectorlogo.zone/logos/filezilla-project/filezilla-project-icon.svg" width="40"/><br>FileZilla
+  </td>
+
+  <td align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Nginx_logo.svg" width="40"/><br>Nginx
+  </td>
+
+  <td align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Apache_Feather_Logo.svg" width="40"/><br>Apache
+  </td>
+
+  <td align="center">
+    <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="40"/><br>Docker
+  </td>
+
+  <td align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" width="40"/><br>PowerShell
+  </td>
+</tr>
+
+<tr>
+  <td align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" width="40"/><br>Obsidian
+  </td>
+
+  <td align="center">
+    <img src="https://cdn.worldvectorlogo.com/logos/lamp-1.svg" width="40"/><br>LAMP
+  </td>
+
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
 
 </table>
 
