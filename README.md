@@ -316,11 +316,11 @@ Driven by continuous learning and a collaborative mindset, with a focus on contr
 <!-- <img src="https://img.shields.io/badge/GitHub%20Trophies-FFB400?style=for-the-badge&logo=github&logoColor=black"/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaberkh16&show_icons=true&theme=tokyonight" alt="jaberkh16" /></a> </p> -->
 
-<img src="https://img.shields.io/badge/GitHub%20Achievements-FFB400?style=for-the-badge&logo=github&logoColor=black"/>
+<!-- <img src="https://img.shields.io/badge/GitHub%20Achievements-FFB400?style=for-the-badge&logo=github&logoColor=black"/>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=jaberkh16&theme=darkhub&no-frame=true&margin-w=10" />
-</p>
+</p> -->
 
 
 
