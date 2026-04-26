@@ -90,6 +90,41 @@ A highly energetic, disciplined and self motivational fresh graduate having an a
 
 <table width="100%" align="center">
 
+<tr>
+  <td colspan="8" align="center"><b>💻 Languages</b></td>
+</tr>
+
+<tr>
+  <td align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/><br>C
+  </td>
+
+  <td align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/><br>C++
+  </td>
+
+  <td align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/><br>PHP
+  </td>
+
+  <td align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/><br>JS
+  </td>
+  
+  <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/><br>Python</td>
+
+  <td align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40"/><br>Go
+  </td>
+
+  <td align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="40"/><br>Ruby
+  </td>
+
+  <td></td>
+  <td></td>
+</tr>
+
   <!-- FRONTEND -->
   <tr>
     <td colspan="8" align="center"><b>🔥 Frontend</b></td>
@@ -97,7 +132,10 @@ A highly energetic, disciplined and self motivational fresh graduate having an a
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/><br>HTML</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/><br>CSS</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/><br>JS</td>
+ 
+  <td align="center">
+    <img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" width="40"/><br>jQuery
+  </td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/><br>React</td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="40"/><br>Vue</td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/><br>Tailwind</td>
