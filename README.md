@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Md. Jaber Khan</h1>
+<!-- <h1 align="center">Hi 👋, I'm Md. Jaber Khan</h1> -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Jaber;Full+Stack+Developer;Go+%7C+Laravel+%7C+Node.js;Always+learning+new+things" />
+</h1>
+
 <h3 align="center">A professional web developer</h3>
 <center>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jaberkh16&label=Profile%20views&color=0e75b6&style=flat" alt="jaberkh16" /> </p>
@@ -23,55 +27,70 @@ A highly energetic, disciplined and self motivational fresh graduate having an a
 
 <h3 align="left">Languages and Tools:</h3>
 
-<table>
+<table width="100%" align="center">
+
+  <!-- ROW 1 -->
   <tr>
-    <td align="center"><a href="https://golang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40"/><br>Go</a></td>
-    <td align="center"><a href="https://www.arduino.cc/"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/><br>Arduino</a></td>
-    <td align="center"><a href="https://www.gnu.org/software/bash/"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/><br>Bash</a></td>
-    <td align="center"><a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/><br>Bootstrap</a></td>
-    <td align="center"><a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/><br>C</a></td>
+    <td align="center"><a href="https://golang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40"/><br>Go</a></td>
+    <td align="center"><a href="https://react.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/><br>React</a></td>
+    <td align="center"><a href="https://www.arduino.cc/"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/><br>Arduino</a></td>
+    <td align="center"><a href="https://www.gnu.org/software/bash/"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40"/><br>Bash</a></td>
+    <td align="center"><a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/><br>Bootstrap</a></td>
+    <td align="center"><a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/><br>C</a></td>
+    <td align="center"><a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/><br>C++</a></td>
+    <td align="center"><a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/><br>HTML</a></td>
   </tr>
 
+  <!-- ROW 2 -->
   <tr>
-    <td align="center"><a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/><br>C++</a></td>
-    <td align="center"><a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/><br>HTML</a></td>
-    <td align="center"><a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/><br>CSS</a></td>
-    <td align="center"><a href="https://sass-lang.com/"><img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" width="40" height="40"/><br>Sass</a></td>
-    <td align="center"><a href="https://postcss.org/"><img src="https://www.vectorlogo.zone/logos/postcss/postcss-icon.svg" width="40" height="40"/><br>PostCSS</a></td>
+    <td align="center"><a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/><br>CSS</a></td>
+    <td align="center"><a href="https://sass-lang.com/"><img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" width="40"/><br>Sass</a></td>
+    <td align="center"><a href="https://postcss.org/"><img src="https://www.vectorlogo.zone/logos/postcss/postcss-icon.svg" width="40"/><br>PostCSS</a></td>
+    <td align="center"><a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/><br>Tailwind</a></td>
+    <td align="center"><a href="https://alpinejs.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/alpinejs/alpinejs-original.svg" width="40"/><br>Alpine</a></td>
+    <td align="center"><a href="https://flask.palletsprojects.com/"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40"/><br>Flask</a></td>
+    <td align="center"><a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/><br>Git</a></td>
+    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/><br>JS</a></td>
   </tr>
 
+  <!-- ROW 3 -->
   <tr>
-    <td align="center"><a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/><br>Tailwind</a></td>
-    <td align="center"><a href="https://alpinejs.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/alpinejs/alpinejs-original.svg" width="40" height="40"/><br>Alpine.js</a></td>
-    <td align="center"><a href="https://flask.palletsprojects.com/"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40"/><br>Flask</a></td>
-    <td align="center"><a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/><br>Git</a></td>
-    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/><br>JavaScript</a></td>
+    <td align="center"><a href="https://nodejs.org/en"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="40"/><br>Node</a></td>
+    <td align="center"><a href="https://expressjs.com/"><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="40"/><br>Express</a></td>
+    <td align="center"><a href="https://laravel.com/"><img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="40"/><br>Laravel</a></td>
+    <td align="center"><a href="https://symfony.com/"><img src="https://www.vectorlogo.zone/logos/symfony/symfony-icon.svg" width="40"/><br>Symfony</a></td>
+    <td align="center"><a href="https://vuejs.org/"><img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="40"/><br>Vue</a></td>
+    <td align="center"><a href="https://www.ruby-lang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="40"/><br>Ruby</a></td>
+    <td align="center"><a href="https://rubyonrails.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" width="40"/><br>Rails</a></td>
+    <td align="center"><a href="https://www.php.net"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/><br>PHP</a></td>
   </tr>
 
+  <!-- ROW 4 -->
   <tr>
-    <td align="center"><a href="https://nodejs.org/en"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="40" height="40"/><br>Node.js</a></td>
-    <td align="center"><a href="https://expressjs.com/"><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="40" height="40"/><br>Express</a></td>
-    <td align="center"><a href="https://laravel.com/"><img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="40" height="40"/><br>Laravel</a></td>
-    <td align="center"><a href="https://symfony.com/"><img src="https://www.vectorlogo.zone/logos/symfony/symfony-icon.svg" width="40" height="40"/><br>Symfony</a></td>
-    <td align="center"><a href="https://vuejs.org/"><img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="40" height="40"/><br>Vue</a></td>
+    <td align="center"><a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/><br>Python</a></td>
+    <td align="center"><a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/><br>Pandas</a></td>
+    <td align="center"><a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/><br>Sklearn</a></td>
+    <td align="center"><a href="https://seaborn.pydata.org/"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/><br>Seaborn</a></td>
+    <td align="center"><a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/><br>MySQL</a></td>
+    <td align="center"><a href="https://www.postgresql.org/"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="40"/><br>Postgres</a></td>
+    <td align="center"><a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/><br>Linux</a></td>
+    <td align="center"></td>
   </tr>
 
-  <tr>
-    <td align="center"><a href="https://www.ruby-lang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="40" height="40"/><br>Ruby</a></td>
-    <td align="center"><a href="https://rubyonrails.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" width="40" height="40"/><br>Rails</a></td>
-    <td align="center"><a href="https://www.php.net"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/><br>PHP</a></td>
-    <td align="center"><a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/><br>Python</a></td>
-    <td align="center"><a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/><br>Pandas</a></td>
-  </tr>
-
-  <tr>
-    <td align="center"><a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/><br>Scikit-Learn</a></td>
-    <td align="center"><a href="https://seaborn.pydata.org/"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/><br>Seaborn</a></td>
-    <td align="center"><a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/><br>MySQL</a></td>
-    <td align="center"><a href="https://www.postgresql.org/"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="40" height="40"/><br>PostgreSQL</a></td>
-    <td align="center"><a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/><br>Linux</a></td>
-  </tr>
 </table>
+
+
+<h3 align="left">Activity Graph</h3>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JaberKh16&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+<!-- <h3 align="left">Contribution Snake</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JaberKh16/JaberKh16/JaberKh16/github-contribution-grid-snake.svg" />
+</p> -->
 
 
 <h3 align="left">Github Trophies:</h3>
