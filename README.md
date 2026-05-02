@@ -367,13 +367,22 @@ Driven by continuous learning and a collaborative mindset, with a focus on contr
 
 <br>
 
-<p align="center">
+<!-- <p align="center">
   <i>"Any sufficiently advanced technology is indistinguishable from magic."</i>
 </p>
 
 <p align="center">
   — Arthur C. Clarke
+</p> -->
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Quote-Any%20sufficiently%20advanced%20technology%20is%20indistinguishable%20from%20magic.-black?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Arthur%20C.%20Clarke-grey?style=flat-square"/>
+</p>
+
 
 <!-- <p align="center">
   Building systems that scale, fail gracefully, and evolve continuously.
