@@ -366,15 +366,17 @@ Driven by continuous learning and a collaborative mindset, with a focus on contr
 </p> -->
 
 <br>
+<!-- static setup -->
+<!-- <div align="center" style="background-color:black; padding:20px; border-radius:10px;">
+  <p style="color:white; font-size:18px;">
+    <i>"Any sufficiently advanced technology is indistinguishable from magic."</i>
+  </p>
+  <p style="color:gray;">
+    — Arthur C. Clarke
+  </p>
+</div> -->
 
-<!-- <p align="center">
-  <i>"Any sufficiently advanced technology is indistinguishable from magic."</i>
-</p>
-
-<p align="center">
-  — Arthur C. Clarke
-</p> -->
-
+<!-- image based setup -->
 <p align="center">
   <img src="https://img.shields.io/badge/Quote-Any%20sufficiently%20advanced%20technology%20is%20indistinguishable%20from%20magic.-black?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
@@ -383,6 +385,14 @@ Driven by continuous learning and a collaborative mindset, with a focus on contr
   <img src="https://img.shields.io/badge/-Arthur%20C.%20Clarke-grey?style=flat-square"/>
 </p>
 
+<!-- <p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+</p> -->
+
+
+<!-- <p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p> -->
 
 <!-- <p align="center">
   Building systems that scale, fail gracefully, and evolve continuously.
@@ -393,9 +403,5 @@ Driven by continuous learning and a collaborative mindset, with a focus on contr
 <p align="center">
   ⚡ Built with passion • Designed for impact • Engineered for scale
 </p> 
-
-<!-- <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p> -->
 
 <br>
